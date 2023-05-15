@@ -3,7 +3,7 @@ spring:
     activate:
       on-profile: dev
     import:
-      - /dev/configtest-test.yml
+      - '/dev/configtest-test.yml'
 
 #ecommerce:
 #  profile: My E-Commerce Application
