@@ -1,6 +1,0 @@
-spring:
-  config:
-    activate:
-      on-profile: application-prod
-  import:
-    - /prod/application-test.yml

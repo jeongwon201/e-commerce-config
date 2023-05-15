@@ -3,4 +3,4 @@ spring:
     activate:
       on-profile: dev
   import:
-    - /dev/application-test.yml
+    - /dev/configtest-test.yml
