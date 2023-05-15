@@ -1,7 +1,10 @@
-spring:
-  profiles: dev
-  config:
-    activate:
-      on-profile: dev
-  import:
-    - /dev/configtest-test.yml
+#spring:
+#  config:
+#    activate:
+#      on-profile: dev
+#  import:
+#    - /dev/configtest-test.yml
+
+ecommerce:
+  profile: My E-Commerce Application
+  comment: CONFIG DEV TEST
