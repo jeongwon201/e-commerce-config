@@ -1,6 +1,7 @@
 spring:
-  config:
-    activate:
-      on-profile: dev
+  profiles: dev
+#  config:
+#    activate:
+#      on-profile: dev
   import:
     - /dev/configtest-test.yml
