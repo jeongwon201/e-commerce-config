@@ -3,4 +3,4 @@ spring:
     activate:
       on-profile: prod
   import:
-    - /prod/configtest-test.yml
+    - ./prod/configtest-test.yml

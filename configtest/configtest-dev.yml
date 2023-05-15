@@ -3,8 +3,4 @@ spring:
     activate:
       on-profile: dev
     import:
-      - 'dev/configtest-test.yml'
-
-#ecommerce:
-#  profile: My E-Commerce Application
-#  comment: CONFIG DEV TEST
+      - ./dev/configtest-test.yml
