@@ -1,6 +1,0 @@
-spring:
-  config:
-    activate:
-      on-profile: configtest-dev
-  import:
-    - /dev/configtest-test.yml
