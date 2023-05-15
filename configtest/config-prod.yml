@@ -1,0 +1,6 @@
+spring:
+  config:
+    activate:
+      on-profile: configtest-prod
+  import:
+    - /prod/configtest-test.yml
